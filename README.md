@@ -1,2 +1,2 @@
-# c-o-abogadas-corrientes
+# cyo-abogadas-corrientes
 Brindamos asesoramiento legal en Derecho
